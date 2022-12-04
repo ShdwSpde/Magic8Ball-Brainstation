@@ -12,7 +12,9 @@ const messages = [
   "Hell Na",
   "Stop it!",
   "Quit Shaking Me!",
-  "Fa Sho"
+  "Fa Sho",
+  "Definitely",
+  "It is what it is",
 ];
 
 
